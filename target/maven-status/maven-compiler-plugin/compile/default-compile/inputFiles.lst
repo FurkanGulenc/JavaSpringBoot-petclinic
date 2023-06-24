@@ -1,0 +1,12 @@
+/Users/furkangulenc/Desktop/SpringBoot/petclinic/src/main/java/com/javaegitimleri/petclinic/dao/mem/OwnerRepositoryMemoryImpl.java
+/Users/furkangulenc/Desktop/SpringBoot/petclinic/src/main/java/com/javaegitimleri/petclinic/exceptions/OwnerNotFoundException.java
+/Users/furkangulenc/Desktop/SpringBoot/petclinic/src/main/java/com/javaegitimleri/petclinic/dao/OwnerRepository.java
+/Users/furkangulenc/Desktop/SpringBoot/petclinic/src/main/java/com/javaegitimleri/petclinic/service/PetClinicServiceImpl.java
+/Users/furkangulenc/Desktop/SpringBoot/petclinic/src/main/java/com/javaegitimleri/petclinic/model/Owner.java
+/Users/furkangulenc/Desktop/SpringBoot/petclinic/src/main/java/com/javaegitimleri/petclinic/web/PetClinicController.java
+/Users/furkangulenc/Desktop/SpringBoot/petclinic/src/main/java/com/javaegitimleri/petclinic/service/PetClinicService.java
+/Users/furkangulenc/Desktop/SpringBoot/petclinic/src/main/java/com/javaegitimleri/petclinic/model/pet.java
+/Users/furkangulenc/Desktop/SpringBoot/petclinic/src/main/java/com/javaegitimleri/petclinic/PetClinicConfiguration.java
+/Users/furkangulenc/Desktop/SpringBoot/petclinic/src/main/java/com/javaegitimleri/petclinic/dao/petRepository.java
+/Users/furkangulenc/Desktop/SpringBoot/petclinic/src/main/java/com/javaegitimleri/petclinic/PetClinicProperties.java
+/Users/furkangulenc/Desktop/SpringBoot/petclinic/src/main/java/com/javaegitimleri/petclinic/PetClinicApplication.java
